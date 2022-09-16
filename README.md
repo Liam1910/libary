@@ -15,10 +15,7 @@ pip install git+https://github.com/Liam1910/libary
 
 ## Usage
 Features:
-* functions.listChunker  --> generator that chunks and interable in evenly sized chunks 
-* functions.weirdCase    --> converts a string to a totally unreadable format
-* functions.report      --> prints to the console with a timestamp
-* decorators.singleton  --> used for decoratint your class to make it a singleton
+* functions.calc -> Takes input in the Console and calculates
 
 #### Demo of some of the features:
 ```python
