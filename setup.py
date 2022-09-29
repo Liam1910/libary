@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='Calculating and PasswordGenerating Libary',
+    name='Calculating,PasswordGeneratingLibary',
     version='1.0.0',
     author='Liam Schmallowsky',
     author_email='liamschmallowsky123@gmail.com',
