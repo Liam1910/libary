@@ -2,4 +2,4 @@
 # in stead of from ppack.functions import average
 
 from .decorators import singleton
-from .functions import calc
+from .functions import *
