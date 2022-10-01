@@ -17,7 +17,7 @@ pip install git+https://github.com/Liam1910/libary
 Features:
 * Libary.Calculating.FullCalc() -> Takes input in the Console and calculates Full Numbers
 * Libary.Calculating.DecimalCalc() -> Takes input in the Console and calculates Decimal Numbers (Example: 1.98)
-* Libary.RandomPasswordGenerating.Genarator() -> Generates an Random Password
+* Libary.RandomPasswordGenerating.Generator() -> Generates an Random Password
 * Libary.help() -> Displays Text in the Console for some help
 
 
@@ -25,13 +25,13 @@ Features:
 ```python
 import Libary
 
-Libary.Calculating.FullCalc()
+libary.Calculating.FullCalc()
 
-Libary.Calculating.DecimalCalc()
+libary.Calculating.DecimalCalc()
 
-Libary.RandomPasswordGenerating.Genarator()
+libary.RandomPasswordGenerating.Generator()
 
-Libary.help()
+libary.help()
 ```
 
 ## Contributing
