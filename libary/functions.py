@@ -63,7 +63,7 @@ class Calculating():
 
 class RandomPasswordGenerating():
 
-    def Genarator():
+    def Generator():
         lower_case_letters = "abcdefghijklmnopqrstuvwxyz"
         upper_case_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
         numbers = "0123456789"
